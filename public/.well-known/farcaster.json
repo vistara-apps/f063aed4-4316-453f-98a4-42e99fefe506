@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "FitFlow AI",
+    "subtitle": "Built with Zara",
+    "description": "FitFlow AI is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://f063aed44316453f98a442e99fefe506-tvmm.vercel.app",
+    "splashImageUrl": "https://f063aed44316453f98a442e99fefe506-tvmm.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://f063aed44316453f98a442e99fefe506-tvmm.vercel.app/image.png",
+    "tagline": "FitFlow AI",
+    "screenshotUrls": [
+      "https://f063aed44316453f98a442e99fefe506-tvmm.vercel.app/screenshot.png",
+      "https://f063aed44316453f98a442e99fefe506-tvmm.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://f063aed44316453f98a442e99fefe506-tvmm.vercel.app/api/webhook"
+  }
+}
